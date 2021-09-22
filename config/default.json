@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb://localhost:27017/soc",
+  "mongoURI": "mongodb://yassine:yassine@cluster0-shard-00-00.hpzko.mongodb.net:27017,cluster0-shard-00-01.hpzko.mongodb.net:27017,cluster0-shard-00-02.hpzko.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-frvagi-shard-0&authSource=admin&retryWrites=true&w=majority",
   "jwtSecret": "123456"
 }

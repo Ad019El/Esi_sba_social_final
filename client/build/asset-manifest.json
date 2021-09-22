@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Esi_sba_social_final/static/css/main.e3271886.chunk.css",
+    "main.js": "/Esi_sba_social_final/static/js/main.61ed2b11.chunk.js",
+    "main.js.map": "/Esi_sba_social_final/static/js/main.61ed2b11.chunk.js.map",
+    "runtime-main.js": "/Esi_sba_social_final/static/js/runtime-main.651f7b0d.js",
+    "runtime-main.js.map": "/Esi_sba_social_final/static/js/runtime-main.651f7b0d.js.map",
+    "static/js/2.65d66ca7.chunk.js": "/Esi_sba_social_final/static/js/2.65d66ca7.chunk.js",
+    "static/js/2.65d66ca7.chunk.js.map": "/Esi_sba_social_final/static/js/2.65d66ca7.chunk.js.map",
+    "index.html": "/Esi_sba_social_final/index.html",
+    "precache-manifest.8730506e280d02fa02e9a46b3745bb1b.js": "/Esi_sba_social_final/precache-manifest.8730506e280d02fa02e9a46b3745bb1b.js",
+    "service-worker.js": "/Esi_sba_social_final/service-worker.js",
+    "static/css/main.e3271886.chunk.css.map": "/Esi_sba_social_final/static/css/main.e3271886.chunk.css.map",
+    "static/js/2.65d66ca7.chunk.js.LICENSE.txt": "/Esi_sba_social_final/static/js/2.65d66ca7.chunk.js.LICENSE.txt",
+    "static/media/Online.svg": "/Esi_sba_social_final/static/media/Online.50ee5008.svg",
+    "static/media/chat.svg": "/Esi_sba_social_final/static/media/chat.4c763df0.svg",
+    "static/media/female_avatar.svg": "/Esi_sba_social_final/static/media/female_avatar.31721699.svg",
+    "static/media/logo avec script.png": "/Esi_sba_social_final/static/media/logo avec script.7481a16a.png",
+    "static/media/logo.png": "/Esi_sba_social_final/static/media/logo.2ea55d86.png",
+    "static/media/male_avatar.svg": "/Esi_sba_social_final/static/media/male_avatar.0c675689.svg",
+    "static/media/online-order.svg": "/Esi_sba_social_final/static/media/online-order.3df20eaa.svg",
+    "static/media/real_time.svg": "/Esi_sba_social_final/static/media/real_time.6db1fa04.svg",
+    "static/media/settings.svg": "/Esi_sba_social_final/static/media/settings.61010fd7.svg",
+    "static/media/smartphone.svg": "/Esi_sba_social_final/static/media/smartphone.f2fe2e5c.svg",
+    "static/media/user.svg": "/Esi_sba_social_final/static/media/user.b42397fe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.651f7b0d.js",
+    "static/js/2.65d66ca7.chunk.js",
+    "static/css/main.e3271886.chunk.css",
+    "static/js/main.61ed2b11.chunk.js"
+  ]
+}
