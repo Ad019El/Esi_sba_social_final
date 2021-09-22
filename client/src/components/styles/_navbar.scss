@@ -1,0 +1,32 @@
+@import "themes/_variables";
+
+.navbar {
+  .navbar-brand {
+    img {
+      vertical-align: unset;
+    }
+  }
+
+  .navbar-nav {
+    .dropdown-menu {
+      position: absolute;
+      margin-top: 10px !important;
+      border: 3px solid darken($light, 5%);
+
+      .dropdown-item {
+        padding: 10px 20px;
+        font-weight: 600;
+        color: darken($secondary, 10%);
+
+        .icon {
+          min-width: 20px;
+          color: $gray-400;
+        }
+
+        &:active {
+          background: $light;
+        }
+      }
+    }
+  }
+}

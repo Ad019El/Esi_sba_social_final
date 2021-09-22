@@ -1,0 +1,57 @@
+// alerts
+export const SET_ALERT = "SET_ALERT";
+export const REMOVE_ALERT = "REMOVE_ALERT";
+
+// register
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+
+// user login and settings
+export const USER_LOADED = "USER_LOADED";
+export const SETTINGS_LOADED = "SETTINGS_LOADED";
+export const UPDATE_SETTINGS = "UPDATE_SETTINGS";
+export const UPDATE_PASSWORD = "UPDATE_PASSWORD";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT = "LOGOUT";
+export const SET_LOADING = "SET_LOADING";
+export const SET_LOADING_SETTINGS = "SET_LOADING_SETTINGS";
+export const AUTH_ERROR = "AUTH_ERROR";
+export const SETTINGS_ERROR = "SETTINGS_ERROR";
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
+export const USER_PROFILE_LOADED = "USER_PROFILE_LOADED";
+export const SET_LOADING_USER_PROFILE = "SET_LOADING_USER_PROFILE";
+export const USER_PROFILE_ERROR = "USER_PROFILE_ERROR";
+export const GET_USERS = "GET_USERS";
+export const GET_USERS_ERROR = "GET_USERS_ERROR";
+export const SET_LOADING_USERS = "SET_LOADING_USERS";
+export const DELETE_USER = "DELETE_USER";
+// requests
+export const REQUEST_SUCCESS = "REQUEST_SUCCESS";
+export const REQUEST_FAIL = "REQUEST_FAIL";
+export const GET_REQUESTS = "GET_REQUESTS";
+export const SET_LOADING_REQUESTS = "SET_LOADING_REQUESTS";
+export const GET_REQUESTS_ERROR = "GET_REQUESTS_ERROR";
+export const CLEAR_REQUESTS = "CLEAR_REQUESTS";
+export const TOGGLE_FAV_ERROR = "TOGGLE_FAV_ERROR";
+
+export const APPROVE_REQUEST = "APPROVE_REQUEST";
+export const DELETE_REQUEST = "DELETE_REQUEST";
+export const REQUEST_ERROR = "REQUEST_ERROR";
+
+// budget
+export const GET_BUDGET = "GET_BUDGET";
+export const GET_EXPENSES = "GET_EXPENSES";
+export const DELETE_EXPENSE = "DELETE_EXPENSE";
+export const TOGGLE_EDIT = "TOGGLE_EDIT";
+export const EDIT_EXPENSE = "EDIT_EXPENSE";
+
+//meeting
+export const MEETING_SUCCESS = "MEETING_SUCCESS";
+export const MEETING_FAIL = "MEETING_FAIL";
+export const GET_MEETINGS = "GET_MEETINGS";
+export const SET_LOADING_MEETINGS = "SET_LOADING_MEETINGS";
+export const GET_MEETINGS_ERROR = "GET_MEETINGS_ERROR";
+export const CLEAR_MEETINGS = "CLEAR_MEETINGS";
+export const DELETE_MEETING = "DELETE_MEETING";
+export const MEETING_ERROR = "MEETING_ERROR";

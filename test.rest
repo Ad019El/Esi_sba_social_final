@@ -1,0 +1,6 @@
+DELETE  http://localhost:5000/budget/6142a6407d33561dccd4aa0e
+Content-Type: application/json
+
+{
+    "amount":0
+}

@@ -1,0 +1,61 @@
+.just-padding {
+  padding: 20px 180px 60px;
+}
+
+.list-group.list-group-root {
+  padding: 0;
+  overflow: hidden;
+}
+
+.list-group.list-group-root .list-group {
+  margin-bottom: 0;
+}
+
+.list-group.list-group-root .list-group-item {
+  color: #4a5568;
+  border-radius: 0;
+  border-width: 1px 0 0 0;
+  grid-gap: 20px;
+  grid-template-columns: 100%;
+}
+
+.list-group.list-group-root > .list-group-item:first-child {
+  border-top-width: 0;
+}
+
+.list-group.list-group-root > .list-group > .list-group-item {
+  padding-left: 30px;
+}
+
+.list-group.list-group-root > .list-group > .list-group > .list-group-item {
+  padding-left: 45px;
+}
+
+.list-group-item .glyphicon {
+  margin-right: 5px;
+}
+.button-primary {
+  background: #f06595;
+  border: 0;
+  margin: 10px;
+  border-radius: 10px;
+  font-weight: 600;
+  color: #fff !important;
+  padding: 8px 20px !important;
+}
+
+.button-primary:hover {
+  background: #c2255c;
+}
+
+.text-link {
+  color: #4a5568;
+}
+.icons {
+  float: right;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.icons:hover {
+  color: #c2255c;
+}

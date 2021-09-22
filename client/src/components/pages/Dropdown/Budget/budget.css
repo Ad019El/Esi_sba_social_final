@@ -1,0 +1,133 @@
+:root {
+  --text-color: #666;
+  --background: linear-gradient(to right bottom, #1f4037, #99f2c8);
+  --white-color: #f7f7f7;
+  --md-grey-color: rgba(214, 214, 214, 1);
+  --blue-color: #1072db;
+  --blue-color-hover: #2a89fd;
+  --red-color: #d34836;
+  --red-color-error: rgb(233, 40, 15);
+  --red-color-error-background: #ffd2d2;
+  --green-color: #3d6c5b;
+}
+
+.center-cont {
+  text-align: center;
+  margin-bottom: 0%;
+}
+
+.center-cont h4 {
+  font-size: 2.5rem;
+  font-weight: 500;
+  color: var(--text-color);
+}
+
+.label {
+  font-size: 2rem;
+  color: var(--text-color);
+}
+
+.input {
+  width: 50%;
+  box-shadow: 0px 13px 26px rgb(109, 184, 241, 0.16);
+  margin-top: 2rem;
+  font-weight: 500;
+  border-radius: 10px;
+  padding: 8px 20px;
+  border: 2px solid;
+}
+
+.button {
+  padding: 10px 20px;
+  border: none;
+  color: var(--white-color);
+  background: #f06595;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s ease-in-out;
+  border-radius: 3px;
+  font-weight: 700;
+  margin-top: 2rem;
+}
+
+.simple-button {
+  background: transparent;
+  border: none;
+  color: var(--blue-color);
+  font-size: 1.6rem;
+  font-weight: 500;
+  transition: color 0.2s ease-in-out;
+  outline: none;
+  cursor: pointer;
+}
+
+.simple-button:hover {
+  color: var(--blue-color-hover);
+}
+
+.button:hover {
+  background: #c2255c;
+}
+
+.mt-05 {
+  margin-top: 0.5rem;
+}
+
+.mt-5 {
+  margin-top: 5rem;
+}
+
+.mr-1 {
+  margin-right: 1rem;
+}
+
+.ml-1 {
+  margin-left: 1rem;
+}
+
+.ml-2 {
+  margin-left: 2rem;
+}
+
+.border {
+  margin: 5rem 0;
+  display: block;
+  width: 100%;
+  height: 1px;
+  background: var(--md-grey-color);
+}
+
+.error {
+  padding: 0.3rem 1rem;
+  border-radius: 3px;
+  font-size: 1.4rem;
+  color: var(--red-color-error);
+  background: var(--red-color-error-background);
+  margin-top: 1rem;
+  font-weight: 500;
+  width: 14rem;
+}
+.icon {
+  width: 2.8rem;
+  height: 2.8rem;
+  fill: var(--white-color);
+  transition: fill 0.2s ease;
+}
+.green {
+  color: var(--green-color);
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.red {
+  color: var(--red-color);
+  font-size: bold;
+  font-size: 20px;
+}
+
+.icon-green:hover {
+  fill: var(--green-color);
+}
+
+.icon-red:hover {
+  fill: var(--red-color);
+}

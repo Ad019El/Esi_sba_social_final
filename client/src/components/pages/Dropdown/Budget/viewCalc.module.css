@@ -1,0 +1,16 @@
+.viewCalc {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2.5rem;
+}
+
+.viewCalc div h4 {
+  font-size: 2rem;
+  color: var(--text-color);
+}
+
+.viewCalc div p {
+  font-size: 1.6rem;
+  margin-top: 1rem;
+}
